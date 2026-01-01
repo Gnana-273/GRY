@@ -8,6 +8,6 @@ V.Raman Karthik(24cs003098)
 
 A.Yashwanth(24cs003318)
 
-BTech 1st year CSE(data science)
+BTech CSE(data science)
 
 SPSU
